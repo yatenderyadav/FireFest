@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "159102369913",
+    "firebase_url": "https://firefes-13b7e.firebaseio.com",
+    "project_id": "firefes-13b7e",
+    "storage_bucket": "firefes-13b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159102369913:android:51bc041cbc3d70a9",
+        "android_client_info": {
+          "package_name": "com.example.home.firefest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159102369913-r33f1a369q4l7rshrtq5mncj57ll4n2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Aso88DIQXl7TaKarFI32CMrTrUYdfis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
